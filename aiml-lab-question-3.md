@@ -23,12 +23,11 @@ Consider two tokenizers: tiktoken and IndicBERT (https://github.com/AI4Bharat/In
 
 # Question 2
 
-Assume you are visitng your high school. There your teachers ask you to explain to them how a neural network (NN) really works.
-You tell them the theory and enthusiastically claim that you can demonstrate to the teachers as well as other kids a sample
-neural network that detects digits: 0, 1, 2,..., 9, 10.
+Assume you are visitng your high school. Your teachers ask you to explain how a neural network (NN) actually works.
+You tell them the theory, and enthusiastically claim that you can demonstrate a toy NN that detects digits: 0, 1, 2,...,8, 9.
 
-You set out to design and implement such a simple NN. Then you realize it is a non-trivial task.
+You set out to implement one such "simple" NN. Then you realize it is a non-trivial task.
 
-Show how you would set up a NN for this purpose. Make necessary assumptions and show (to your high school teachers)  
-where is the "deep learning" in a network.
+Show how you would set up a NN for this purpose. Make necessary assumptions and use necessary libraries.
+Identify where exactly is the "deep learning" in a network located.
 
